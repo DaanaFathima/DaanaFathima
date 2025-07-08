@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K S Daana Fathima</h1>
-<h3 align="center">A passionate coder who loves problem solving & data analysis</h3>
+<h3 align="center">MCA Student| Problem solver|Data Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ksdaanafathima&label=Profile%20views&color=0e75b6&style=flat" alt="ksdaanafathima" />
@@ -18,19 +18,13 @@
 #### Languages & Databases
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksdaanafathima&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksdaanafathima&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
